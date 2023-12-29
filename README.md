@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Yesh Pal</h1>
 <h3 align="center">"Passionate Systems Engineer and Tech Enthusiast | Aspiring DevOps Engineer | Dedicated to Constant Learning and Innovation | Open to New Opportunities in the Tech World 🚀"</h3>
 
-- 🔭 I’m currently working in **Tech Mahindra as a System Engineer**
+- 🔭 I’m currently working as a system Engineer at **Tech Mahindra**
 
-- 🌱 I’m currently learning **Devops ,AWS & Azure**
-
-- 🤝 I’m looking for help with **Devops Engineer job role**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **yashpal2035@gmail.com**
 
-- ⚡ Fun fact ** Chai tastes way better than Coffee | Change my mind!**
+- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yashpal2035/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashpal2035/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yashpal2035" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashpal2035" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
