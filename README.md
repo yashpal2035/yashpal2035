@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yashpal2035@gmail.com**
 
-- ⚡ Fun fact **I believe in turning '404 not found' into '200 OK' through the magic of DevOps! 🚀 #ContinuousImprovement #DevOpsMagic**
+- ⚡ Fun fact ** Chai tastes way better than Coffee | Change my mind!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
